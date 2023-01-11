@@ -1,2 +1,23 @@
-hallo ich heiße Nico
-test
+git commit
+git config --global user.email "nico230704@gmail.com"
+git commit
+git add nkrug.txt
+git commit
+git commit -m "Commit message 1 nkrug"
+git push
+git pull
+git push
+more nkrug.txt
+git commit -m "Commit message 2 nkrug"
+git add nkrug.txt
+git commit -m "Commit message 2 nkrug"
+git push
+git pull
+git add README.md
+git commit -m "nkrug changes"
+git push
+git commit -m "nkrug email changes"
+git add README.md
+git commit -m "nkrug email changes"
+git pull
+git push
